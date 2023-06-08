@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+last azure exercise: Welcome to my very first blog
 ---
 
